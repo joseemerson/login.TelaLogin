@@ -1,0 +1,44 @@
+form{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 30vw;
+    height: 70vh;
+    border-radius: 8%;
+    background: linear-gradient(90deg, rgb(36, 1, 0) 0%, rgb(161, 161, 161) 0%, rgb(165, 224, 2) 100%, rgb(100, 122, 19) 0%);
+}
+body{
+    background: linear-gradient(90deg, rgba(206, 207, 200, 0.363) 0%, rgba(13, 121, 9, 0.986) 95%, rgb(2, 224, 13) 100%, rgb(22, 122, 19) 100%);
+    border: none;
+}
+button,
+input{
+    width: 20vw;
+    height: 30px;
+    margin-top: 5px;
+    border: none;
+}
+button{
+    background-color: rgb(224, 101, 64);
+    color: white;
+    border: none;
+    width: 20vw;
+    height: 30px;
+}
+img{
+  width: 30%;
+  height: 30%;
+  border-radius: 50%;
+  margin-bottom: 30px ;
+  border: none;
+}
+.image{
+    width: 5%;
+    height: 5%;
+    border-radius: 100%;
+    border: none; 
+    padding-top: 5vmin;
+}
+
